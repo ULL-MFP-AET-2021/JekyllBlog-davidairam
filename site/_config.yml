@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+#
 # Name of your site (displayed in the header)
 name: David Airam Hdez. Rguez.
 
@@ -14,7 +14,6 @@ avatar: https://raw.githubusercontent.com/ULL-MFP-AET-2021/p02-t0-aprender-markd
 #
 # Flags below are optional
 #
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
