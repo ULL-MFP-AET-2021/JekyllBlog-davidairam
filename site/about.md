@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 David Airam
+
 Analyst Developer
+
 Living in Tenerife
 
 ### More Information
